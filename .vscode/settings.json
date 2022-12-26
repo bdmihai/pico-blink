@@ -6,7 +6,9 @@
         "bootrom.h": "c",
         "sio.h": "c",
         "types.h": "c",
-        "claim.h": "c"
+        "claim.h": "c",
+        "cstdarg": "c",
+        "*.tcc": "c"
     },
     "Open files list": false,
     "Toggle terminal": false,

@@ -38,6 +38,9 @@ Product {
     Depends { name: 'pico_sync' }
     Depends { name: 'pico_util' }
     Depends { name: 'pico_time' }
+    Depends { name: 'pico_bootrom' }
+    Depends { name: 'pico_malloc' }
+    Depends { name: 'pico_mem_ops' }
     Depends { name: 'hardware_gpio' }
     Depends { name: 'hardware_sync' }
     Depends { name: 'hardware_irq' }

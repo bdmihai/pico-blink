@@ -34,7 +34,7 @@ CONFIG_OPENOCD_TARGET       = target/rp2040-core0.cfg
 .PHONY: all build clean
 
 MAKECMDGOALS ?= all
-all: build
+all: build-with-commands
 
 config:
 	/usr/bin/qbs config-ui
