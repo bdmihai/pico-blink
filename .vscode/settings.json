@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*qbs": "qbs",
+        "gpio.h": "c",
+        "pico.h": "c",
+        "bootrom.h": "c",
+        "sio.h": "c",
+        "types.h": "c",
+        "claim.h": "c"
+    },
+    "Open files list": false,
+    "Toggle terminal": false,
+    "Switch header source": true,
+    "cortex-debug.variableUseNaturalFormat": true
+}

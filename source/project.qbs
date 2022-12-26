@@ -28,7 +28,7 @@
 import qbs
 
 Project {
-    name: 'bring-up'
+    name: 'blink'
     minimumQbsVersion: '1.24'
     qbsSearchPaths: '../qbs'
 
